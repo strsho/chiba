@@ -49,7 +49,7 @@ function createVectorLayer() {
         source: new ol.source.Vector({
             url: './chiba.kml',
             format: new ol.format.KML({
-              extractStyles: false
+              extractStyles: true
             })
         })
     });
