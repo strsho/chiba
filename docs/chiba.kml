@@ -4,7 +4,7 @@
 <Style id="PolyStyle1">
   <IconStyle>
   <Icon>
-  <href>https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png</href>
+  <href>./assets/placemark.png</href>
   </Icon>
   <scale>1</scale>
   </IconStyle>
