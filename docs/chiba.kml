@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="PolyStyle1">
+  <IconStyle>
+  <Icon>
+  <href>https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png</href>
+  </Icon>
+  <scale>1</scale>
+  </IconStyle>
+</Style>
+<Placemark>
+<name>道の駅和田浦WA・O！（ワオ）</name>
+<description><![CDATA[ <table><tr><td>連絡先</td><td>TEL:0470-47-3100</td></tr><tr><td>住所</td><td>〒299-2703 千葉県南房総市和田町仁我浦243</td></tr><tr><td>記事</td><td>くじらコロッケ</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>138.51059,35.480701</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>オルカ鴨川FC</name>
+<description><![CDATA[ <table><tr><td>住所</td><td>千葉県鴨川市太尾866-1</td></tr><tr><td>記事</td><td>なでしこ2部リーグ</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.079849,35.112732</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
