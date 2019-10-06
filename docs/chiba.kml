@@ -4,7 +4,7 @@
 <Style id="PolyStyle1">
   <IconStyle>
   <Icon>
-  <href>./assets/placemark.png</href>
+  <href>https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png</href>
   </Icon>
   <scale>1</scale>
   </IconStyle>
@@ -23,6 +23,14 @@
 <styleUrl>#PolyStyle1</styleUrl>
 <Point>
 <coordinates>140.079849,35.112732</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>チャリティーサーフィンコンテスト</name>
+<description><![CDATA[ <table><tr><td>連絡先</td><td>チトセサーフ：0470-46-4116</td></tr><tr><td>住所</td><td>千葉県南房総市千倉町南朝夷</td></tr><tr><td>記事</td><td>http://bosotown.com/archives/38397</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.930557,34.953335</coordinates>
 </Point>
 </Placemark>
 </Document>
